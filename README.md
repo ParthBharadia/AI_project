@@ -42,8 +42,8 @@ Follow these steps to set up and run the project on your local machine.
 First, clone this repository to your local machine (or simply download the files).
 
 ```bash
-git clone <your-repository-url>
-cd <repository-directory>
+git clone <https://github.com/ParthBharadia/AI_project>
+cd <AI_project>
 ```
 
 ### 2. Create a Virtual Environment with `uv`
@@ -81,6 +81,10 @@ uv pip install -r requirements.txt
 ```
 
 ---
+
+## Project Screenshot
+<img width="1920" height="1080" alt="Screenshot 2025-08-27 101301" src="https://github.com/user-attachments/assets/97ffbade-2c5f-447c-9580-64345ea3673e" />
+
 
 ## How to Run the Application
 
