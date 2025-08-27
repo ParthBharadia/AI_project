@@ -5,8 +5,6 @@ A simple and interactive web application built with Streamlit that uses a pre-tr
 <img width="1920" height="1080" alt="Screenshot 2025-08-27 101301" src="https://github.com/user-attachments/assets/97df7b91-6e26-4616-9aae-c284ed75e5ce" />
 
 
-*(Add a screenshot of your application here)*
-
 ---
 
 ## Features
@@ -109,3 +107,4 @@ The application will open automatically in your web browser.
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
+
